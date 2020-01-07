@@ -1,5 +1,3 @@
-## Background
-
 This project analyzes data for a fantasy video game.  The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I have generated a report that breaks down the game's purchasing data into meaningful insights.
 
 The final report includes the following:
